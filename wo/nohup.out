@@ -1,0 +1,18 @@
+[2019-01-06 19:43:25 +0000] [8390] [INFO] Starting gunicorn 19.9.0
+[2019-01-06 19:43:25 +0000] [8390] [INFO] Listening at: http://172.31.94.17:8002 (8390)
+[2019-01-06 19:43:25 +0000] [8390] [INFO] Using worker: sync
+[2019-01-06 19:43:25 +0000] [8393] [INFO] Booting worker with pid: 8393
+[2019-01-06 19:43:27 +0000] [8390] [INFO] Handling signal: int
+[2019-01-06 19:43:27 +0000] [8393] [INFO] Worker exiting (pid: 8393)
+[2019-01-06 19:43:27 +0000] [8390] [INFO] Shutting down: Master
+[2019-01-06 19:44:04 +0000] [8396] [INFO] Starting gunicorn 19.9.0
+[2019-01-06 19:44:04 +0000] [8396] [INFO] Listening at: http://172.31.94.17:8002 (8396)
+[2019-01-06 19:44:04 +0000] [8396] [INFO] Using worker: sync
+[2019-01-06 19:44:04 +0000] [8399] [INFO] Booting worker with pid: 8399
+Invalid HTTP_HOST header: '3.87.44.198:8000'. You may need to add '3.87.44.198' to ALLOWED_HOSTS.
+Bad Request: /
+[2019-01-06 20:05:29 +0000] [8483] [INFO] Booting worker with pid: 8483
+[2019-01-06 20:05:29 +0000] [8396] [INFO] Handling signal: hup
+[2019-01-06 20:05:29 +0000] [8396] [INFO] Hang up: Master
+[2019-01-06 20:05:29 +0000] [8485] [INFO] Booting worker with pid: 8485
+[2019-01-06 20:05:30 +0000] [8483] [INFO] Worker exiting (pid: 8483)
